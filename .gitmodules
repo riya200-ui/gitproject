@@ -1,0 +1,3 @@
+[submodule "gendate"]
+	path = gendate
+	url = https://github.com/riya200-ui/gendate.git
